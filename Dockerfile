@@ -11,6 +11,6 @@ COPY api_modelo.py .
 COPY spam_detect_nb.pkl .
 
 
-EXPOSE 3141
+EXPOSE 8080
 
 CMD ["python", "api_modelo.py"]
