@@ -1,7 +1,7 @@
 import requests
 
 # URL local
-url = "http://127.0.0.1:3141/predict"
+url = "http://127.0.0.1:8080/predict"
 
 
 email_textos = [
